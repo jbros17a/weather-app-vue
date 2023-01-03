@@ -1,5 +1,7 @@
 # weatherapp
 
+Weather app that accesses OpenWeatherApp's API and display weather information for any location in the world using Vue.js.
+
 ## Project setup
 ```
 npm install
